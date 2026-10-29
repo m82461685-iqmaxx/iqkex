@@ -1,8 +1,10 @@
-<img src="assets/developer.svg" align="right" width="250" alt="Developer coding at a desktop">
-
 <p align="center">
-  <img src="assets/banner.svg" width="640" alt="IQKEX Termux Install Guide">
+  <img src="skull.png" width="170" alt="IQ MAXX skull logo">
+  &nbsp;&nbsp;&nbsp;
+  <img src="iqmaxx.png" width="460" alt="IQ MAXX">
 </p>
+
+<h1 align="center">IQKEX · Termux Install Guide</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%2B%20Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
@@ -11,9 +13,7 @@
   <img src="https://img.shields.io/badge/Free%20Space-40%20GB%2B-FFC93C?style=for-the-badge" alt="40 GB">
 </p>
 
-<h3 align="center">🐍 The complete guide to installing iqkex on Android with Termux 🦅</h3>
-
-<br clear="right">
+<p align="center"><b>🐍 The complete guide to installing iqkex on Android with Termux 🦅</b></p>
 
 > [!WARNING]
 > **Read the [Important Disclaimer](#-important-disclaimer) before you install.** You need **more than 40 GB of free storage** on your phone.
@@ -33,9 +33,7 @@
 
 ---
 
-<img src="assets/h-install.svg" width="820" alt="Step 1 Install Termux">
-
-### 1️⃣ Install Termux from F-Droid
+## 1️⃣ Install Termux from F-Droid
 
 - ❌ **Do not use the Play Store version of Termux.** It does not work well.
 - ✅ **Download and install Termux from F-Droid:**
@@ -43,9 +41,7 @@
 
 ---
 
-<img src="assets/h-storage.svg" width="820" alt="Step 2 Storage Access">
-
-### 2️⃣ Open Termux and grant storage access
+## 2️⃣ Open Termux and grant storage access
 
 Open Termux and run this command. When the permission prompt appears, tap **Allow**:
 
@@ -65,9 +61,7 @@ cd Downloads
 
 ---
 
-<img src="assets/h-update.svg" width="820" alt="Step 3 Update Packages">
-
-### 3️⃣ Update your packages
+## 3️⃣ Update your packages
 
 ```bash
 pkg update && pkg upgrade
@@ -78,9 +72,7 @@ pkg update && pkg upgrade
 
 ---
 
-<img src="assets/h-python.svg" width="820" alt="Step 4 Install Python">
-
-### 4️⃣ Install Python
+## 4️⃣ Install Python
 
 ```bash
 pkg install python
@@ -90,9 +82,7 @@ pkg install python
 
 ---
 
-<img src="assets/h-iqkex.svg" width="820" alt="Step 5 Install iqkex">
-
-### 5️⃣ Install iqkex
+## 5️⃣ Install iqkex
 
 First, go into the iqkex folder:
 
@@ -116,9 +106,7 @@ You will see a message like this:
 
 ---
 
-<img src="assets/h-run.svg" width="820" alt="Step 6 Run iqkex">
-
-### 6️⃣ Start iqkex
+## 6️⃣ Start iqkex
 
 ```bash
 iqkex
@@ -128,19 +116,7 @@ iqkex
 
 ---
 
-<img src="assets/h-demo.svg" width="820" alt="Live Terminal Demo">
-
-<p align="center">
-  <img src="assets/terminal.svg" width="820" alt="Animated terminal demo">
-</p>
-
----
-
-<img src="assets/h-uninstall.svg" width="820" alt="Uninstall">
-
-### 🗑️ Uninstall iqkex
-
-To remove iqkex, use the commands below:
+## 🗑️ Uninstall iqkex
 
 ```bash
 # Remove the command launcher
@@ -156,9 +132,8 @@ rmdir "$PREFIX/lib/iqkex" 2>/dev/null
 ---
 
 <a id="-important-disclaimer"></a>
-<img src="assets/h-warning.svg" width="820" alt="Important Disclaimer">
 
-### ⚠️ Important Disclaimer
+## ⚠️ Important Disclaimer
 
 > [!IMPORTANT]
 > Using this on your phone performs **the same functions as it does on a computer.**
@@ -175,9 +150,7 @@ rmdir "$PREFIX/lib/iqkex" 2>/dev/null
 
 ---
 
-<img src="assets/h-clean.svg" width="820" alt="Free up storage">
-
-### 🧹 How to free up storage
+## 🧹 How to free up storage
 
 Do this every now and then:
 
@@ -191,6 +164,6 @@ Do this every now and then:
 ---
 
 <p align="center">
-  <b>🦅 Fly high &nbsp;·&nbsp; 🐍 Code smart &nbsp;·&nbsp; 💻 Build more</b><br>
+  <img src="iqmaxx.png" width="260" alt="IQ MAXX"><br>
   <sub>© 2026 S DEEPAK KUMAR / IQ MAXX · All Rights Reserved</sub>
 </p>
