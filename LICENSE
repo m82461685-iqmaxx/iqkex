@@ -1,57 +1,37 @@
-# IQKEX
+=======================================================================
+               COPYRIGHT & USAGE LICENSE NOTICE
+=======================================================================
+Project Name: iqkex (Python Compression Application)
+Author/Owner: [Your Name or Company Name]
+Copyright © 2026. All Rights Reserved.
 
-## Copyright & Usage License Notice
+WARNING AND LEGAL TERMS OF USE:
 
-Python Compression Application
+1. OWNERSHIP & INTELLECTUAL PROPERTY:
+This application, source code, algorithms, and associated documentation 
+are the exclusive intellectual property of the Author. 
 
-© 2026ProprietaryAll Rights Reserved Use: AllowedModify: Prohibited
+2. PERMITTED USE:
+You are granted the full right to use this application for personal or 
+business purposes in its original, unmodified form. 
 
-⚠️ WARNING AND LEGAL TERMS OF USE. Read carefully before using, copying or opening this software.
+3. STRICT PROHIBITIONS ON MODIFICATION & REDISTRIBUTION:
+- You are strictly PROHIBITED from modifying, altering, or creating 
+  derivative works (re-modification) of this source code or application.
+- You are strictly PROHIBITED from distributing, sharing, reselling, or 
+  licensing this application (whether modified or unmodified) to any 
+  third party without explicit written permission from the Author.
 
-### 1Ownership & Intellectual Property
+4. LEGAL ACTION & CONSEQUENCES:
+Any unauthorized modification, re-modification, distribution, or commercial 
+exploitation of this software constitutes a direct infringement of copyright 
+laws and GitHub Terms of Service. 
 
-This application, source code, algorithms, and associated documentation are the **exclusive intellectual property of the Author.**
+The Owner reserves the absolute right to take strict legal action, including 
+but not limited to, filing DMCA Takedown notices, seeking damages, and 
+initiating intellectual property lawsuit proceedings against anyone found 
+in violation of these terms.
 
-Source codeAlgorithmsDocumentationApplication
-
-### 2Permitted Use
-
-You are granted the **full right** to use this application for **personal** or **business** purposes in its **original, unmodified form.**
-
-### 3Strict Prohibitions
-
-**Modification:** You are strictly PROHIBITED from modifying, altering, or creating derivative works (re-modification) of this source code or application.
-
-**Redistribution:** You are strictly PROHIBITED from distributing, sharing, reselling, or licensing this application (modified or unmodified) to any third party without explicit written permission from the Author.
-
-| Action | Status |
-| --- | --- |
-| Personal use, original form | ✔ Allowed |
-| Business use, original form | ✔ Allowed |
-| Modify / derivative works | ✖ Prohibited |
-| Distribute / share / resell / license | ✖ Prohibited |
-| Any of the above with written permission | ● Case by case |
-
-### 4Legal Action & Consequences
-
-Any unauthorized modification, re-modification, distribution, or commercial exploitation constitutes a direct infringement of copyright laws and GitHub Terms of Service. The Owner reserves the absolute right to take strict legal action, including:
-
-**📨**Filing **DMCA Takedown** notices
-
-**💰**Seeking **damages**
-
-**🏛️**Initiating **intellectual property lawsuit** proceedings
-
-❓ Need permission? Frequently asked questions
-
-**Use it in my company?** Yes, in original, unmodified form.
-
-**Change a few lines?** No, not without written permission.
-
-**Share or fork it?** No, that is redistribution or a derivative work.
-
-**How to get permission?** Contact S DEEPAK KUMAR / IQ MAXX and get it in writing first.
-
-#### BY USING THIS APPLICATION, YOU AGREE TO BE BOUND BY THESE LEGAL TERMS.
-
-© 2026 S DEEPAK KUMAR / IQ MAXX · All Rights Reserved
+=======================================================================
+BY USING THIS APPLICATION, YOU AGREE TO BE BOUND BY THESE LEGAL TERMS.
+=======================================================================
