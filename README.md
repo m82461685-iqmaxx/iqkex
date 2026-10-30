@@ -7,7 +7,7 @@
 ╚═╝  ╚══▀▀═╝  ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
 ```
 
-<h1 align="center">IQKEX · Termux Install Guide</h1>
+<h1 align="center">IQKEX ·CODING AGENT Install Guide</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android%20%2B%20Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android + Termux">
