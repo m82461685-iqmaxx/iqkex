@@ -48,7 +48,7 @@ The downloaded package is named `iqkex-android-2zz.pyz`. Google Drive may be una
 
 ---
 
-## Screenshots
+## Prewiew The IQkex Interface
 
 <p align="center">
   <img src="assets/preview-1.png" alt="IQkex preview 1" width="560">
@@ -62,7 +62,7 @@ The downloaded package is named `iqkex-android-2zz.pyz`. Google Drive may be una
 
 ---
 
-## Installation
+## Installation && Setup
 
 ### 1 · Install Termux
 
