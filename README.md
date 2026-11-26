@@ -28,9 +28,13 @@
 
 <p align="center">
   <a href="https://drive.google.com/uc?export=download&id=1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6">
-    <img src="https://img.shields.io/badge/CLICK_TO_DOWNLOAD-IQKEX_61_MB-138A3D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Click to download IQkex from Google Drive · 61 MB" height="72">
+    <img src="https://img.shields.io/badge/CLICK_TO_DOWNLOAD-IQKEX_61_MB-138A3D?style=for-the-badge&logo=googledrive&logoColor=white" alt="Click to download IQkex from Google Drive · 61 MB" width="720" height="96">
   </a>
 </p>
+
+<p align="center"><strong>Tap the large green button to start your Google Drive download.</strong></p>
+
+<p align="center"><a href="https://drive.google.com/file/d/1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6/view?usp=drivesdk">Open the Google Drive file page instead</a></p>
 
 <p align="center"><strong>Tap the green button to start your Google Drive download.</strong></p>
 
