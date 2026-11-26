@@ -131,11 +131,13 @@ iqkex
 
 <p align="center">
   <a href="https://www.instagram.com/reel/Dfeb4OAualp/?jplx=MWFheXMzaXo1cm5icg==">
-    <img src="https://img.shields.io/badge/INSTAGRAM_REEL-WATCH_VIDEO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Watch the Instagram Reel" height="54">
+    <img src="https://img.shields.io/badge/TAP_TO_WATCH-INSTAGRAM_REEL-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Tap to watch the Instagram Reel" width="540" height="68">
   </a>
-  &nbsp;
+</p>
+
+<p align="center">
   <a href="https://youtube.com/shorts/O65LHvRbOKQ?si=zVCku1qFCYxTvYjW">
-    <img src="https://img.shields.io/badge/YOUTUBE_SHORT-WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the YouTube Short" height="54">
+    <img src="https://img.shields.io/badge/TAP_TO_WATCH-YOUTUBE_SHORT-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Tap to watch the YouTube Short" width="540" height="68">
   </a>
 </p>
 
