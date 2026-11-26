@@ -1,197 +1,145 @@
-```text
-██╗  ██████╗  ██╗  ██╗ ███████╗ ██╗  ██╗
-██║ ██╔═══██╗ ██║ ██╔╝ ██╔════╝ ╚██╗██╔╝
-██║ ██║   ██║ █████╔╝  █████╗    ╚███╔╝
-██║ ██║▄▄ ██║ ██╔═██╗  ██╔══╝    ██╔██╗
-██║ ╚██████╔╝ ██║  ██╗ ███████╗ ██╔╝ ██╗
-╚═╝  ╚══▀▀═╝  ╚═╝  ╚═╝ ╚══════╝ ╚═╝  ╚═╝
-```
-
-<h1 align="center">IQKEX ·CODING AGENT Install Guide</h1>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Platform-Android%20%2B%20Termux-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Platform: Android + Termux">
-  <img src="https://img.shields.io/badge/Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Language: Python">
-  <img src="https://img.shields.io/badge/Termux-F--Droid%20Only-FF3CAC?style=for-the-badge" alt="Termux: F-Droid only">
-  <img src="https://img.shields.io/badge/Free%20Space-40%20GB%2B-FFC93C?style=for-the-badge" alt="Free space: 40 GB+">
+  <img src="assets/logo.png" alt="IQkex" width="250">
 </p>
 
-<p align="center"><b>The complete guide to installing iqkex on Android with Termux</b></p>
+<h1 align="center">IQKEX for Android</h1>
+
+<p align="center"><strong>A practical installation guide for Android + Termux</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+  <img src="https://img.shields.io/badge/Terminal-Termux-111111?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Termux">
+  <img src="https://img.shields.io/badge/Runtime-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
+
+<p align="center">
+  <a href="#quick-start">Quick start</a> &nbsp;·&nbsp;
+  <a href="#screenshots">Screenshots</a> &nbsp;·&nbsp;
+  <a href="#video-guides">Video guides</a> &nbsp;·&nbsp;
+  <a href="#storage-and-safety">Storage &amp; safety</a>
+</p>
 
 ---
 
-<h2 align="center">Download</h2>
-
-<h1 align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6"><b>CLICK TO DOWNLOAD (61 MB)</b></a>
-</h1>
-
-<p align="center">
-  Button not working? Open the <a href="https://drive.google.com/file/d/1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6/view?usp=drivesdk"><b>Google Drive page</b></a> and tap the download icon.
-</p>
-
-> [!NOTE]
-> **Google Drive may say "can't scan this file for viruses" because the file is large (61 MB).** This is normal. Tap **Download anyway**.
+## Quick start
 
 > [!WARNING]
-> **Read the [Important Disclaimer](#important-disclaimer) before you install.** You need **more than 40 GB of free storage** on your phone.
+> The original guide recommends **more than 40 GB of free storage**. Please read [Storage and safety](#storage-and-safety) before installing.
+
+<p align="center">
+  <a href="https://drive.google.com/uc?export=download&id=1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6"><strong>DOWNLOAD IQKEX · 61 MB</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://drive.google.com/file/d/1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6/view?usp=drivesdk">Google Drive file page</a>
+</p>
+
+The downloaded package is named `iqkex-android-2zz.pyz`. Google Drive may be unable to scan a large file. Only download and run it if you trust its source.
+
+### At a glance
+
+|  | Step | What to do |
+|:---:|:---:|---|
+| 01 | Prepare | Install Termux from [F-Droid](https://f-droid.org/packages/com.termux/) |
+| 02 | Download | Save `iqkex-android-2zz.pyz` to Downloads |
+| 03 | Set up | Grant storage access, update packages, install Python |
+| 04 | Install | Run the IQkex installer in Termux |
+| 05 | Launch | Enter `iqkex` |
 
 ---
 
-## Quick Overview
+## Screenshots
 
-| Step | What to do | Command |
-|:-:|---|---|
-| 1 | Install Termux from F-Droid | — |
-| 2 | Download the iqkex file (button above) | — |
-| 3 | Grant storage access | `termux-setup-storage` |
-| 4 | Update packages | `pkg update && pkg upgrade` |
-| 5 | Install Python | `pkg install python` |
-| 6 | Install iqkex | `python iqkex-android-2zz.pyz --install` |
-| 7 | Run iqkex | `iqkex` |
+<p align="center">
+  <img src="assets/preview-1.png" alt="IQkex preview 1" width="820">
+</p>
 
----
+<p align="center">
+  <img src="assets/prewiew-2.png" alt="IQkex preview 2" width="820">
+</p>
 
-## Step 1 · Install Termux from F-Droid
-
-- ❌ **Do not use the Play Store version of Termux.** It does not work well.
-- ✅ **Download and install Termux from F-Droid:**
-  [https://f-droid.org/packages/com.termux/](https://f-droid.org/packages/com.termux/)
+<p align="center"><sub>Place your original screenshots in <code>assets/</code> with the filenames shown above.</sub></p>
 
 ---
 
-## Step 2 · Download the iqkex file
+## Installation
 
-Tap the big **CLICK TO DOWNLOAD** button at the top of this page. The file `iqkex-android-2zz.pyz` is saved in your phone's **Downloads** folder.
+### 1 · Install Termux
 
-Then create a folder named **`iqkex`** inside **Downloads** and put the file inside it (use your file manager, or use the commands in step 6).
+Install Termux from [F-Droid](https://f-droid.org/packages/com.termux/). The original guide advises against the Play Store version.
 
----
+### 2 · Allow storage access
 
-## Step 3 · Open Termux and grant storage access
-
-Open Termux and run this command. When the permission prompt appears, tap **Allow**:
+Open Termux and run:
 
 ```bash
 termux-setup-storage
 ```
 
-Next, move into your Downloads folder. Press **Enter** after each line:
+Allow the permission request, then go to your Downloads folder:
 
 ```bash
 cd storage
-```
-
-```bash
 cd Downloads
 ```
 
----
-
-## Step 4 · Update your packages
+### 3 · Update Termux and install Python
 
 ```bash
 pkg update && pkg upgrade
-```
-
-> **If it stops and waits:** type `y` and press **Enter**.
-> **If it stops again somewhere else:** type `y` and press **Enter** once more.
-
----
-
-## Step 5 · Install Python
-
-```bash
 pkg install python
 ```
 
-> **If it stops and waits:** type `y` and press **Enter**.
+If Termux asks you to continue, enter `y` and press **Enter**.
 
----
+### 4 · Install IQkex
 
-## Step 6 · Install iqkex
-
-If the downloaded file is still directly inside `Downloads`, put it into the `iqkex` folder first:
+If the downloaded file is directly in `Downloads`, create a folder and move the package into it:
 
 ```bash
 mkdir -p iqkex && mv iqkex-android-2zz.pyz iqkex/
-```
-
-Go into the iqkex folder:
-
-```bash
 cd iqkex
 ```
 
-Then run the install command:
+Run the installer:
 
 ```bash
 python iqkex-android-2zz.pyz --install
 ```
 
-You will see a message like this:
+Keep Termux open until installation finishes. You may see:
 
 ```text
 [ iqkex ]  unpacking core..
 ```
 
-> The installation takes a little while. Keep Termux open until it finishes.
-
----
-
-## Step 7 · Start iqkex
+### 5 · Launch IQkex
 
 ```bash
 iqkex
 ```
 
-**That is it!** iqkex is now ready to use.
-
 ---
 
-## Uninstall iqkex
+## Video guides
+
+- [Instagram Reel](https://www.instagram.com/reel/Dfeb4OAualp/?jplx=MWFheXMzaXo1cm5icg==)
+- [YouTube Short](https://youtube.com/shorts/O65LHvRbOKQ?si=zVCku1qFCYxTvYjW)
+
+## Uninstall
+
+Run these commands in Termux to remove the launcher and extracted core:
 
 ```bash
-# Remove the command launcher
-rm -f $PREFIX/bin/iqkex
-
-# Remove the extracted core binary (~212 MB)
+rm -f "$PREFIX/bin/iqkex"
 rm -f "$PREFIX/lib/iqkex/iqkex.linux-aarch64"
-
-# Remove the now-empty lib dir
 rmdir "$PREFIX/lib/iqkex" 2>/dev/null
 ```
 
----
+## Storage and safety
 
-## Important Disclaimer
+IQkex may install many packages and create cache files, so storage use can grow over time. The original guide recommends not installing it on a phone with less than **40 GB free**.
 
-> [!IMPORTANT]
-> Using this on your phone performs **the same functions as it does on a computer.**
-> It will install **every application (package) you need** on its own.
-
-| Effect | Details |
-|---|---|
-| **Many packages** | A lot of packages get installed, so task time increases |
-| **Cache files** | Cache files take up a large amount of space |
-| **40 GB free space** | If your phone has **more than 40 GB free**, go ahead and use it |
-| **Low storage** | If you have less than 40 GB free, **avoid using it** |
-
-> It will not take 40 GB all at once. However, the work it does will **fill your storage little by little** over time.
+To clear Termux data, open the app's **App info** page and choose **Clear data**. This removes Termux, Python, IQkex, installed packages, and files saved inside Termux. Back up anything important first. If you only need to free a small amount of space, try **Clear cache** instead.
 
 ---
 
-## How to free up storage
-
-Do this every now and then:
-
-1. **Long press** the **Termux** app
-2. Open **App info**
-3. Tap **Clear data**
-
-> [!CAUTION]
-> **Clear data** erases everything inside Termux: Python, iqkex, all installed packages and any files you created there. You will need to repeat the steps above afterwards. Back up important files to `Downloads` first. If you only need space, try **Clear cache** first.
-
----
-
-<p align="center"><sub>© 2026 S DEEPAK KUMAR / IQ MAXX · All Rights Reserved</sub></p>
+<p align="center"><sub>© 2026 S DEEPAK KUMAR / IQ MAXX · All rights reserved</sub></p>
