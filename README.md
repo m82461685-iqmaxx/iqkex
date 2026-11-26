@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="IQkex" width="420">
+  <img src="assets/logo.png" alt="IQkex" width="100%">
 </p>
 
 <h1 align="center">IQKEX for Android</h1>
