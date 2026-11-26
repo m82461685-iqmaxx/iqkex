@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="IQkex" width="250">
+  <img src="assets/logo.png" alt="IQkex" width="420">
 </p>
 
 <h1 align="center">IQKEX for Android</h1>
@@ -27,9 +27,11 @@
 > The original guide recommends **more than 40 GB of free storage**. Please read [Storage and safety](#storage-and-safety) before installing.
 
 <p align="center">
-  <a href="https://drive.google.com/uc?export=download&id=1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6"><strong>DOWNLOAD IQKEX · 61 MB</strong></a>
-  &nbsp;·&nbsp;
-  <a href="https://drive.google.com/file/d/1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6/view?usp=drivesdk">Google Drive file page</a>
+  <a href="https://drive.google.com/uc?export=download&id=1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6">
+    <img src="https://img.shields.io/badge/DOWNLOAD_IQKEX-61_MB-16833B?style=for-the-badge&logo=googledrive&logoColor=white" alt="Download IQkex · 61 MB" height="54">
+  </a>
+  <br>
+  <a href="https://drive.google.com/file/d/1PW5wF0cs092diZxlHdGJVBnMeaEaA1_6/view?usp=drivesdk">Open the Google Drive file page</a>
 </p>
 
 The downloaded package is named `iqkex-android-2zz.pyz`. Google Drive may be unable to scan a large file. Only download and run it if you trust its source.
@@ -49,11 +51,11 @@ The downloaded package is named `iqkex-android-2zz.pyz`. Google Drive may be una
 ## Screenshots
 
 <p align="center">
-  <img src="assets/preview-1.png" alt="IQkex preview 1" width="820">
+  <img src="assets/preview-1.png" alt="IQkex preview 1" width="560">
 </p>
 
 <p align="center">
-  <img src="assets/prewiew-2.png" alt="IQkex preview 2" width="820">
+  <img src="assets/prewiew-2.png" alt="IQkex preview 2" width="560">
 </p>
 
 <p align="center"><sub>Place your original screenshots in <code>assets/</code> with the filenames shown above.</sub></p>
@@ -121,8 +123,15 @@ iqkex
 
 ## Video guides
 
-- [Instagram Reel](https://www.instagram.com/reel/Dfeb4OAualp/?jplx=MWFheXMzaXo1cm5icg==)
-- [YouTube Short](https://youtube.com/shorts/O65LHvRbOKQ?si=zVCku1qFCYxTvYjW)
+<p align="center">
+  <a href="https://www.instagram.com/reel/Dfeb4OAualp/?jplx=MWFheXMzaXo1cm5icg==">
+    <img src="https://img.shields.io/badge/INSTAGRAM_REEL-WATCH_VIDEO-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Watch the Instagram Reel" height="54">
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/shorts/O65LHvRbOKQ?si=zVCku1qFCYxTvYjW">
+    <img src="https://img.shields.io/badge/YOUTUBE_SHORT-WATCH_VIDEO-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch the YouTube Short" height="54">
+  </a>
+</p>
 
 ## Uninstall
 
